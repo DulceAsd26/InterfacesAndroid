@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width_Logo"></dimen>
+    <dimen name="heigh_Logo"></dimen>
+
+    <dimen name="margin_default"></dimen>
+</resources>
